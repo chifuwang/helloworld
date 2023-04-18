@@ -1,4 +1,4 @@
-package edu.utsw.ais.helloworld;
+package edu.utst.ras.helloworld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
